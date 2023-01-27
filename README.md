@@ -1,8 +1,9 @@
 #### mvHOTA: A multi-view higher order tracking accuracy metric to measure temporal and spatial associations in multi-point tracking
-[Lalith Sharan](linik-zentrum/herzchirurgie/forschung/ag-artificial-intelligence-in-cardiovascular-medicine#layer=/personen/lalith-sharan-msc-8155), 
+[Lalith Sharan](https://www.klinikum.uni-heidelberg.de/chirurgische-klinik-zentrum/herzchirurgie/forschung/ag-artificial-intelligence-in-cardiovascular-medicine#layer=/personen/lalith-sharan-msc-8155), 
 Halvar Kelm, Gabriele Romano, Matthias Karck, Raffaele De Simone, [Sandy Engelhardt](https://www.klinikum.uni-heidelberg.de/chirurgische-klinik-zentrum/herzchirurgie/forschung/ag-artificial-intelligence-in-cardiovascular-medicine#layer=/personen/jun-prof-dr-sandy-engelhardt-7654)
 
 AE-CAI Workshop 2022
+[Pre-print](https://arxiv.org/abs/2206.09372) | [Paper](https://www.tandfonline.com/doi/abs/10.1080/21681163.2022.2159535) 
 
 ### Overview
 
